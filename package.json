@@ -8,6 +8,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "bitcoin-computer": "^0.3.4-beta",
+    "express": "^4.17.1",
     "material-components-web": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
